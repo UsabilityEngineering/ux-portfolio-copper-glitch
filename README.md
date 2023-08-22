@@ -1,6 +1,6 @@
-# UX Portfolio
+# Cooper's UX Portfolio
 
-About me...
+Im cooper howard, welcome to Ux port,this is just ya boy
 
 ## UX Team Project
 
